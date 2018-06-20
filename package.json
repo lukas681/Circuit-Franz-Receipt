@@ -1,0 +1,13 @@
+{
+    "id": "atoscircuit",
+    "name": "Atos Circuit",
+    "version": "0.9.0",
+    "description": "Atos Circuit",
+    "main": "index.js",
+    "author": "Lukas Retschmeier",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://eu.yourcircuit.com/",
+      "hasNotificationSound": true
+    }
+  }
